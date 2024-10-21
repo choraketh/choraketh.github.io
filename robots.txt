@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://choraketh.github.io/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/app/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/assets/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/css/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/includes/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/item/choraketh.txt.gz
+Sitemap: https://choraketh.github.io/src/choraketh.txt.gz
